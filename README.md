@@ -41,6 +41,9 @@ Welcome to my GitHub profile! I’m a dedicated learner exploring the intersecti
  [🔗 Live Demo](https://cafeboardgame.onrender.com) (https://cafeboardgame.onrender.com)  
   A full-stack web platform for a real-life café offering table and board game reservations, event listings, and a Stripe-powered checkout. Includes multilingual support, working hours logic, and a full admin panel for managing tables, prices, and events.  
   *Tech stack: React, Node.js, Express, MongoDB, Mongoose, Stripe, JWT, HTML, CSS, Tailwind CSS, MUI, SweetAlert2, Day.js, libphonenumber-js, express-validator, Moment-Timezone, Nodemailer, bcryptjs*  
+
+- [**Doctor Appointment Booking System**](https://github.com/Jina-Eunjin/DoctorAppointmentSystem)
+  A full-stack doctor appointment booking system built using React JS, MongoDB, Express JS, and Node JS. This website was created by following a YouTube tutorial (https://www.youtube.com/watch?v=eRTTlS0zaW8&t=46211s), with some modifications. I replaced the original payment system with Stripe for better security and a smoother user experience.  
   
 ---
   
